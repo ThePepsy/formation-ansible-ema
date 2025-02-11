@@ -143,6 +143,3 @@ Contrairement à Debian, le paquet `python3-venv` n’est pas nécessaire ici, c
    vagrant destroy rocky
    ```
 
-## Conclusion
-Avec cet exercice, nous avons installé Ansible sur **Rocky Linux** en utilisant **PIP** et **Virtualenv**, offrant ainsi une méthode alternative et flexible par rapport aux installations précédentes. 🚀
-
