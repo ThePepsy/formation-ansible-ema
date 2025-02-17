@@ -263,6 +263,5 @@ exit
 vagrant destroy -f
 ```
 
----
-Atelier terminé ✅
+
 

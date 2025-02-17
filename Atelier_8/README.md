@@ -52,5 +52,4 @@ L’exécution répétée de ces commandes montre que :
 - Supprimer un fichier déjà absent ne génère pas d’erreur.
 - La commande `df -h /` est purement informative et n’altère pas l’état du système.
 
-Cela illustre bien la notion d’idempotence en Ansible ! ✅
 
